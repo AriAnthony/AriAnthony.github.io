@@ -35,3 +35,10 @@ author:
 
 markdown: kramdown
 highlighter: rouge
+
+# Analytics
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-EH2KH4KW9H"
+    anonymize_ip: false

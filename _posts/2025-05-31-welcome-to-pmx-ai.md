@@ -100,8 +100,7 @@ The technology is ready. The question is whether the pharmaceutical industry is 
 
 ---
 
-*This is the first post in a series exploring AI automation in pharmacometrics. Next week, I'll dive into the technical architecture of building AI agents for pharmacometric analysis, including task parsing, prompt engineering, and knowledge base design.*
+*This is the first post in a series exploring AI automation in pharmacometrics. In the next post, I'll dive into the technical architecture of building AI agents for pharmacometric analysis, including task parsing, prompt engineering, and knowledge base design.*
 
----
 
-**About the Author:** Ari is a pharmacometrician with almost a decade of experience in pharmaceutical development and thinking about applied AI. Currently working at Amgen, he has spent the last two years developing AI-powered tools for pharmacometric analysis and is exploring opportunities in AI agent development.
+**About the Author:** Ari is a pharmacometrician with a decade of experience in pharmaceutical development and thinking about applied AI. Currently working at Amgen, he has spent the last two years developing AI-powered tools for pharmacometric analysis and is exploring opportunities in AI agent development. You can find him on [LinkedIn](https://www.linkedin.com/in/aripb) and [GitHub](https://github.com/AriAnthony). *Views expressed are my own and do not represent my employer. This post was developed in collaboration with Claude AI.*

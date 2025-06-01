@@ -40,5 +40,5 @@ highlighter: rouge
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "G-EH2KH4KW9H"
+    tracking_id: "G-F6FCRGMJ3Z"
     anonymize_ip: false

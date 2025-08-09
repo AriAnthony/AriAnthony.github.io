@@ -4,6 +4,7 @@ title: "Welcome to Pharmacometrics × AI"
 date: 2025-05-31
 categories: [intro]
 tags: [pharmacometrics, AI, automation]
+redirect_to: https://www.aripritchardbell.com/blog/2025-05-31-welcome-to-pmx-ai/
 classes: wide
 ---
 

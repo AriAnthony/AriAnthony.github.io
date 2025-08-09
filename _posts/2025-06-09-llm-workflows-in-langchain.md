@@ -5,6 +5,7 @@ date: 2025-06-09
 categories: [demo]
 tags: [pharmacometrics, AI, langchain, R, automation]
 classes: wide
+redirect_to: https://www.aripritchardbell.com/blog/2025-06-09-llm-workflows-in-langchain/
 ---
 
 ## From Task to Code: Building Reliable, Iterative LLM Workflows with LangChain

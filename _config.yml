@@ -4,6 +4,9 @@ plugins:
   - jekyll-include-cache
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-redirect-from
+
+redirect_to: https://www.aripritchardbell.com/
 
 title: "Pharmacometrics × AI"
 description: "Exploring the intersection of pharmacometrics and LLM-based automation"
